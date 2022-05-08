@@ -1,0 +1,14 @@
+{
+    "style": {
+        "line-color": "#ff0000",
+        "label": "data(id)",
+        "font-size": 13,
+        "text-opacity": 1,
+        "text-rotation": "autorotate",
+        "color": "#ff0000",
+        "font-weight": "bold",
+        "text-background-shape": "round-rectangle",
+        "text-background-opacity": 1,
+        "text-background-padding": 2
+    }
+}

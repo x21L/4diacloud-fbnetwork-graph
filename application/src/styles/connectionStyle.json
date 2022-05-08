@@ -1,0 +1,8 @@
+{
+    "style": {
+        "line-color": "grey",
+        "curve-style": "taxi",
+        "source-endpoint": "outside-to-node",
+        "target-endpoint": "inside-to-node"
+    }
+}

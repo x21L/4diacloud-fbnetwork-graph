@@ -1,0 +1,12 @@
+{
+    "style": {
+        "shape": "rectangle",
+        "backgroundColor": "orange",
+        "label": "function block",
+        "padding": 0,
+        "margin": 0,
+        "height": 50,
+        "width": 100,
+        "max-width": 100
+    }
+}

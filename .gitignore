@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+
+/.parcel-cache
+yarn-debug.log*
+yarn-error.log*

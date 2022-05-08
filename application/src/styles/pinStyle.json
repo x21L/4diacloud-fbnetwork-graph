@@ -1,0 +1,11 @@
+{
+    "style": {
+        "shape": "rectangle",
+        "backgroundColor": "red",
+        "label": "event",
+        "text-valign": "center",
+        "text-halign": "center",
+        "width": 6,
+        "height": 6
+    }
+}

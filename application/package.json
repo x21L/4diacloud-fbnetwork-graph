@@ -1,0 +1,32 @@
+{
+  "name": "4diacloud-fbnetwork-graph",
+  "version": "0.0.1",
+  "description": "Function block network graph of 4diacloud",
+  "repository": "https://github.com/x21L/4diacloud-fbnetwork-graph",
+  "author": "Lukas Wais",
+  "license": "MIT",
+  "private": false,
+  "source": "src/index.html",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "cytoscape": "latest",
+    "cytoscape-cola": "latest",
+    "cytoscape-klay": "latest",
+    "cytoscape-grid-guide": "latest"
+  },
+  "devDependencies": {
+    "parcel": "latest",
+    "@types/cytoscape": "latest",
+    "typescript": "latest",
+    "commonjs": "latest"
+  },
+  "targets": {
+    "module": false,
+    "types": false
+  }
+}
