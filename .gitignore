@@ -1,5 +1,5 @@
 # dependencies
-/node_modules
+./application/node_modules
 
 # misc
 .DS_Store

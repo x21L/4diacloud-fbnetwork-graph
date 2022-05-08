@@ -82,8 +82,6 @@ export class Graph {
         //@ts-expect-error
         this._cy.gridGuide({
             gridSpacing: 20,
-            resize: true, // Adjust node sizes to cell sizes
-            parentPadding: false, // Adjust parent sizes to cell sizes by padding
             snapToGridOnRelease: true, // Snap to grid on release
             snapToGridDuringDrag: true, // Snap to grid during drag
         })
